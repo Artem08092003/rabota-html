@@ -1,3 +1,27 @@
 .ClickHouse {
     margin-left: 80px;
 }
+
+html{
+    box-sizing: border-box;
+    width: 1170px;
+    
+}
+
+h1 {
+    margin: 40px 25px;
+    padding: 20px;
+    border: 2px solid;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-style: initial;
+    font-weight: 900;
+    font-size: 40px;
+    background-color: bisque;
+}
+
+p {
+    margin: 0;
+    margin-bottom: 20px;
+    color: black;
+}
